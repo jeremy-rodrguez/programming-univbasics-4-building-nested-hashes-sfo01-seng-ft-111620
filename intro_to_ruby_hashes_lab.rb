@@ -1,7 +1,7 @@
 require 'relative'
 
 def base_hash
-  monopoly_hash = {
+  monopoly = {
     :railroads => {}
   }
 end
