@@ -1,5 +1,3 @@
-require 'relative'
-
 def base_hash
 end
 
